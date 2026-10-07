@@ -1,0 +1,7 @@
+streamlit
+trafilatura
+joblib
+scikit-learn
+Sastrawi
+indoNLP
+lxml_html_clean
